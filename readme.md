@@ -1,9 +1,4 @@
 # COVID-19 Data Analysis and Visualization.
-Introduction:
-![](images/pict_2.png)
-![](images/pict_3.png)
-![](images/pict_4.png)
-![](images/pict.png)
 
 
 
@@ -32,3 +27,9 @@ Licensed under MIT License.
 Contact Information:
 
 Provide contact details for further queries. E.g., "For questions, reach out to [your email]."
+Introduction:
+![](images/pict_2.png)
+![](images/pict_3.png)
+![](images/pict_4.png)
+![](images/pict.png)
+
