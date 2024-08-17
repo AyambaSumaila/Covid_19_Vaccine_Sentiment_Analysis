@@ -26,7 +26,7 @@ License:
 Licensed under MIT License.
 Contact Information:
 
-Provide contact details for further queries. E.g., "For questions, reach out to [your email]."
+Provide contact details for further queries. E.g., "For question."
 Introduction:
 ![](images/pict_2.png)
 ![](images/pict_3.png)
